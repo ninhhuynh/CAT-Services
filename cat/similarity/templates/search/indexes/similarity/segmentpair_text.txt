@@ -1,0 +1,2 @@
+{{ object.src_segment }}
+{{ object.tgt_segment }}
